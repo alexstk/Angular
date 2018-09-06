@@ -3,5 +3,6 @@
 		{
 			"path": "angular-tour-of-heroes"
 		}
-	]
+	],
+	"settings": {}
 }
